@@ -1,0 +1,12 @@
+# ignore everything
+*
+
+#track these files
+
+
+#ignore everything except src file and contents inside
+!src
+!src/**
+
+!.gitignore
+!*.txt
